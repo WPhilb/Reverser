@@ -1,0 +1,17 @@
+C:\Users\Warren\source\repos\Reverser\ReverserTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Warren\source\repos\Reverser\ReverserTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Warren\source\repos\Reverser\ReverserTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Warren\source\repos\Reverser\ReverserTests\bin\Debug\ReverserTests.dll
+C:\Users\Warren\source\repos\Reverser\ReverserTests\bin\Debug\ReverserTests.pdb
+C:\Users\Warren\source\repos\Reverser\ReverserTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Warren\source\repos\Reverser\ReverserTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Warren\source\repos\Reverser\ReverserTests\bin\Debug\Reverser.exe
+C:\Users\Warren\source\repos\Reverser\ReverserTests\bin\Debug\Reverser.pdb
+C:\Users\Warren\source\repos\Reverser\ReverserTests\bin\Debug\Reverser.exe.config
+C:\Users\Warren\source\repos\Reverser\ReverserTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Warren\source\repos\Reverser\ReverserTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Warren\source\repos\Reverser\ReverserTests\obj\Debug\ReverserTests.csprojAssemblyReference.cache
+C:\Users\Warren\source\repos\Reverser\ReverserTests\obj\Debug\ReverserTests.csproj.CoreCompileInputs.cache
+C:\Users\Warren\source\repos\Reverser\ReverserTests\obj\Debug\ReverserTests.csproj.CopyComplete
+C:\Users\Warren\source\repos\Reverser\ReverserTests\obj\Debug\ReverserTests.dll
+C:\Users\Warren\source\repos\Reverser\ReverserTests\obj\Debug\ReverserTests.pdb

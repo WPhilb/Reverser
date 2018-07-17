@@ -1,0 +1,7 @@
+C:\Users\Warren\source\repos\Reverser\Reverser\bin\Debug\Reverser.exe.config
+C:\Users\Warren\source\repos\Reverser\Reverser\bin\Debug\Reverser.exe
+C:\Users\Warren\source\repos\Reverser\Reverser\bin\Debug\Reverser.pdb
+C:\Users\Warren\source\repos\Reverser\Reverser\obj\Debug\Reverser.csprojAssemblyReference.cache
+C:\Users\Warren\source\repos\Reverser\Reverser\obj\Debug\Reverser.csproj.CoreCompileInputs.cache
+C:\Users\Warren\source\repos\Reverser\Reverser\obj\Debug\Reverser.exe
+C:\Users\Warren\source\repos\Reverser\Reverser\obj\Debug\Reverser.pdb
